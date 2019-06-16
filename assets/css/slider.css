@@ -1,0 +1,100 @@
+#slider {
+  background: repeating-linear-gradient(0deg, #333333, #333333 5px, rgba(0, 0, 0, 0.85) 5px, rgba(0, 0, 0, 0.85) 10px);
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+  border-bottom: 1px solid groove #fff;
+}
+
+#slider h3 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+#slider h4 {
+  font-size: 40px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #fff;
+}
+
+#slider p {
+  font-size: 20PX;
+}
+
+#slider ul {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 500px;;
+  background: #333
+  margin: 0;
+  padding: 0;
+
+}
+
+#slider ul li {
+  list-style: none;
+  position: relative;
+  width: 25%;
+  height: 100%;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  float: left;
+  box-sizing: border-box;
+  transition: 0.3s;
+  text-align: center;
+  overflow: hidden;
+}
+
+#slider ul li:nth-child(1) {
+  background-image: url(https://blog.csiro.au/wp-content/uploads/2016/11/blockchain.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#slider ul li:nth-child(2) {
+  background-image: url(https://ak0.picdn.net/shutterstock/videos/24241370/thumb/5.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#slider ul li:nth-child(3) {
+  background-image: url(https://www.coengoedegebure.com/content/images/2017/09/metasploitcover.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#slider ul li:nth-child(4) {
+  background-image: url(https://i5.photo.2gis.com/images/branch/8/1125899913493555_657d.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#slider ul:hover li {
+  width: 10%;
+}
+
+#slider ul li:hover {
+  width: 70%;
+}
+
+#slider ul li .contenedor {
+  position: absolute;
+  bottom: -500%;
+  width: 50%;
+  left: 25%;
+  background: rgba(0, 0, 0, 0.98);
+  border-radius: 10px;
+  box-shadow: 0 0 15px 10px maroon;
+  box-sizing: border-box;
+  color: #fff;
+  padding: 10px;
+}
+
+#slider ul li:hover .contenedor {
+  bottom:  14%;
+  transition: 0.3s;
+  transition-delay: 0.3s;
+  opacity: 1;
+}

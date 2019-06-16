@@ -1,0 +1,91 @@
+.perfil {
+  margin-top: 50px;
+  width: 100%;
+  height: 85vh;
+  text-align: center;
+  background: url(/assets/imgs/bg.jpeg) no-repeat center top;
+  background-size: cover;
+
+}
+
+.formulario{
+  padding: 20px;
+  width: 70%;
+  left: 50%;
+  transform: translateX(22%);
+  background: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  color: #fff;
+
+}
+
+input {
+  width: 50%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center
+}
+
+.radio label{
+  display: block;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+
+.radio input[type="radio"] {
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  margin: 0;
+  vertical-align: bottom;
+  position: relative;
+  top: -5px;
+  left: -10px;
+  *overflow: hidden;
+}
+
+h1{
+    margin: 10px;
+}
+
+p{
+  margin: 5px;
+  font-size: 20px;
+}
+
+label {
+  margin: 0;
+  padding: 5px;
+  font-weight: bold;
+  display: block;
+  font-size: 20px;
+}
+
+#boton{
+  width: 200px;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #b80f22;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#boton:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}

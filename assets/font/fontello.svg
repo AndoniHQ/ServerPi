@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="adult" unicode="&#xe800;" d="M0-132l0 289q0 103 60 177t157 75l330 0q101-2 158-76t57-176l0-289q0-18-18-18l-105 0q-16 0-16 18l0 252q-6 27-27 24t-22-24l0-252q-2-18-19-18l-352 0q-17 0-17 18l0 252q-4 27-26 24t-23-24l0-252q0-18-18-18l-101 0q-18 0-18 18z m186 783q0 82 59 140t140 59q86-4 142-60t59-139q-2-84-61-143t-140-58q-84 2-142 60t-57 141z" horiz-adv-x="762" />
+
+<glyph glyph-name="twitter" unicode="&#xf099;" d="M904 622q-37-54-90-93 0-8 0-23 0-73-21-145t-64-139-103-117-144-82-181-30q-151 0-276 81 19-2 43-2 126 0 224 77-59 1-105 36t-64 89q19-3 34-3 24 0 48 6-63 13-104 62t-41 115v2q38-21 82-23-37 25-59 64t-22 86q0 49 25 91 68-83 164-133t208-55q-5 21-5 41 0 75 53 127t127 53q79 0 132-57 61 12 115 44-21-64-80-100 52 6 104 28z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="menu" unicode="&#xf0c9;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-squared" unicode="&#xf308;" d="M696 779q67 0 114-48t47-113v-536q0-66-47-113t-114-48h-104v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-297q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="instagram" unicode="&#xf32d;" d="M690 350q0 26-6 50l176 0 0-344q0-56-39-96t-95-40l-592 0q-56 0-95 40t-39 96l0 344 174 0q-4-32-4-50 0-106 76-183t184-77q106 0 183 77t77 183z m36 430q56 0 95-39t39-95l0-146-218 0q-78 110-212 110-138 0-212-110l-218 0 0 146q0 56 39 95t95 39l592 0z m64-166l0 72q0 24-24 24l-72 0q-24 0-24-24l0-72q0-8 7-16t17-8l72 0q24 0 24 24z m-200-264q0-66-47-113t-113-47-113 47-47 113q0 68 47 114t113 46 113-46 47-114z" horiz-adv-x="860" />
+</font>
+</defs>
+</svg>
